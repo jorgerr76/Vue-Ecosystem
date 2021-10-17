@@ -26,7 +26,7 @@ export default {
   data () {
     return {
       msg: 'Bienvenido Vue.js App',
-      hola: 'Hola Mundo'
+      hola: 'Ecosystem'
     }
   }
 }
